@@ -4,6 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Swagger .NetCore 6.0</Title>
+    <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
+    <RunAnalyzersDuringLiveAnalysis>False</RunAnalyzersDuringLiveAnalysis>
+    <IncludeSymbols>True</IncludeSymbols>
+    <PackAsTool>True</PackAsTool>
+    <RepositoryUrl>https://github.com/UAsoftwaredeveloper/Swagger</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageId></PackageId>
   </PropertyGroup>
 
   <ItemGroup>
